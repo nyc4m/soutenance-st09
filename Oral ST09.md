@@ -39,7 +39,7 @@ theme: moon
 ![source : playstore](images/jobigo.png){width=500}
 :::
 :::{.column width="50%"}
-![source : jobigo](images/jobigo_app_1.jpg){height=450}
+![source : site officiel](images/jobigo_app_1.jpg){height=450}
 :::
 ::::::
 
@@ -89,7 +89,7 @@ theme: moon
 ::::::{.columns}
 
 :::{.column width="30%"}
-![source : api-platform](images/api-platform.png)
+![source : site officiel](images/api-platform.png)
 :::
 
 :::{.column width="50%"}
@@ -102,7 +102,7 @@ theme: moon
 
 ##  L'entreprise
 
-![source : sita](images/sita.png)
+![source : site officiel](images/sita.png)
 
 ::: notes
  + Société Internationale de Télécommunications Aeronautique
@@ -154,7 +154,7 @@ theme: moon
 :::
 
 :::{.column width="33%"}
-  ![source : github de microsoft](images/typescript.png){height=300px}
+  ![source : site officiel](images/typescript.png){height=300px}
 :::
 
 :::{.column width="33%"}
@@ -175,7 +175,7 @@ theme: moon
 
 ## Projet
 
-![source : mynabes](images/mynabes.png)
+![source : site officiel](images/mynabes.png)
 
 ::: notes
 
@@ -197,7 +197,7 @@ theme: moon
 
 ## Technologie
 
-![](images/laravel.jpg)
+![source : site officiel](images/laravel.jpg)
 
 # Bilan
     

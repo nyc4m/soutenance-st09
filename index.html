@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Baptiste Prunot">
+  <title>Soutenance ST09 Siclo Mobile</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://revealjs.com/css/reset.css">
+  <link rel="stylesheet" href="https://revealjs.com/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="https://revealjs.com/css/theme/moon.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https://revealjs.com/css/print/pdf.css' : 'https://revealjs.com/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="https://revealjs.com/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Soutenance ST09 Siclo Mobile</h1>
+  <p class="author">Baptiste Prunot</p>
+  <p class="date">5 septembre 2019</p>
+</section>
+<section id="TOC">
+
+</section>
+
+<section><section id="siclo-mobile" class="title-slide slide level1"><h1>Siclo Mobile</h1></section><section id="lentreprise" class="slide level2">
+<h2>L’entreprise</h2>
+<figure>
+<img data-src="images/siclo.png" width="500" alt="" /><figcaption>source : siclo-mobile</figcaption>
+</figure>
+</section><section id="localisation" class="slide level2">
+<h2>Localisation</h2>
+<figure>
+<img data-src="/home/baptiste/Typora/Soutenance%20ST09/images/map.png" alt="" /><figcaption>source : google maps</figcaption>
+</figure>
+</section></section>
+<section><section id="jobigo" class="title-slide slide level1"><h1>Jobigo</h1></section><section id="principe" class="slide level2">
+<h2>Principe</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<figure>
+<img data-src="images/jobigo.png" width="500" alt="" /><figcaption>source : playstore</figcaption>
+</figure>
+</div><div class="column" style="width:50%;">
+<figure>
+<img data-src="images/jobigo_app_1.jpg" height="450" alt="" /><figcaption>source : jobigo</figcaption>
+</figure>
+</div>
+</div>
+<aside class="notes">
+<ol type="1">
+<li><p>aider des chercheurs d’emploie à trouver un emploie</p></li>
+<li><p>faciliter la publication d’offres par les employeurs</p></li>
+<li><p>établir un système de chat</p></li>
+</ol>
+</aside>
+</section><section id="participation" class="slide level2">
+<h2>Participation</h2>
+<figure>
+<img data-src="images/notification.png" width="450" alt="" /><figcaption>source : pixabay</figcaption>
+</figure>
+<aside class="notes">
+<ol type="1">
+<li>fin de projet</li>
+<li>notifications</li>
+</ol>
+</aside>
+</section></section>
+<section><section id="sita---smart-uld" class="title-slide slide level1"><h1>SITA - Smart ULD</h1></section><section id="lentreprise-1" class="slide level2">
+<h2>L’entreprise</h2>
+<figure>
+<img data-src="images/sita.png" alt="" /><figcaption>source : sita</figcaption>
+</figure>
+</section><section id="projet" class="slide level2">
+<h2>Projet</h2>
+<figure>
+<img data-src="images/uld.jpg" width="600" alt="" /><figcaption>source : wikipedia</figcaption>
+</figure>
+</section><section id="pourquoi" class="slide level2">
+<h2>Pourquoi ?</h2>
+<aside class="notes">
+<ol type="1">
+<li>premier prototype pas très performant en javascript</li>
+<li>flow de données important</li>
+</ol>
+</aside>
+</section><section id="principe-1" class="slide level2">
+<h2>Principe</h2>
+<p><img data-src="images/sita_overview.png" height="550" /></p>
+<aside class="notes">
+<ul>
+<li>microservices</li>
+<li>réécriture en typescript</li>
+<li>système de queue</li>
+</ul>
+</aside>
+</section><section id="résultats" class="slide level2">
+<h2>Résultats</h2>
+<aside class="notes">
+<ul>
+<li>un programme qui fonctionne</li>
+<li>une architecture plus maintenable</li>
+<li>un code plus clair</li>
+</ul>
+</aside>
+</section></section>
+<section><section id="mynabes" class="title-slide slide level1"><h1>mynabes</h1></section><section id="projet-1" class="slide level2">
+<h2>Projet</h2>
+<figure>
+<img data-src="images/mynabes.png" alt="" /><figcaption>source : mynabes</figcaption>
+</figure>
+<aside class="notes">
+<ul>
+<li>rapprocher les voisins</li>
+<li>demander un service</li>
+<li>faire les courses de quelqu’un d’autre</li>
+</ul>
+</aside>
+</section><section id="conception" class="slide level2">
+<h2>conception</h2>
+<ol type="1">
+<li>front-end</li>
+<li>back-end
+<ol type="1">
+<li>api</li>
+</ol></li>
+</ol>
+</section><section id="implémentation" class="slide level2">
+<h2>implémentation</h2>
+<ol type="1">
+<li>MVC</li>
+</ol>
+</section></section>
+<section id="questions" class="title-slide slide level1"><h1>Questions ?</h1></section>
+    </div>
+  </div>
+
+  <script src="https://revealjs.com/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'https://revealjs.com/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'https://revealjs.com/plugin/zoom-js/zoom.js', async: true },
+          { src: 'https://revealjs.com/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>

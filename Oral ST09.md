@@ -84,6 +84,20 @@ theme: moon
   + vérifier qu'il est d'accord pour recevoir des notifications
 :::
 
+## Technologies 
+
+::::::{.columns}
+
+:::{.column width="30%"}
+![source : api-platform](images/api-platform.png)
+:::
+
+:::{.column width="50%"}
+![source : le monde informatique](images/docker.png)
+:::
+
+::::::
+
 # SITA - Smart ULD
 
 ##  L'entreprise
@@ -179,6 +193,10 @@ theme: moon
  + Discussion instantanée 📱
  + Fonctionnalité de recherche 🔎
 :::
+
+## Technologie
+
+![](images/laravel.jpg)
 
 # Bilan
     

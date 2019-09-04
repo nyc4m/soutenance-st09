@@ -180,6 +180,6 @@ theme: moon
  + Fonctionnalité de recherche 🔎
 :::
 
-# Conclusion
+# Bilan
     
 # Questions ?

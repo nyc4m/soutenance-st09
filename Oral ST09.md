@@ -26,6 +26,7 @@ toc: true
 ![source : jobigo](images/jobigo_app_1.jpg){height=450}
 :::
 ::::::
+
 ::: notes
 
    1. aider des chercheurs d'emploie à trouver un emploie
@@ -74,6 +75,25 @@ toc: true
    + système de queue
 
 :::
+
+## Technologies
+
+
+::::::{.columns}
+
+:::{.column width="33%"}
+  ![source : wikipedia](images/node.png)
+:::
+
+:::{.column width="33%"}
+  ![source : github de microsoft](images/typescript.png){height=300px}
+:::
+
+:::{.column width="33%"}
+  ![source : vectorlogo](images/rabbitmq.svg){height=300px}
+:::
+
+::::::
 
 ## Résultats
 

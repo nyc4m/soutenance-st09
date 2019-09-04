@@ -59,9 +59,29 @@ theme: moon
 
 ::: notes
 
-   1. fin de projet
-   1. notifications
+    + fin de projet
+    + notifications
 
+:::
+
+## Type de notifications
+
+::: incremental
++ Offre d'emploi
++ Candidature
++ Acceptation
++ Nouveau message
+:::
+
+## Fonctionnement
+
+![](images/notification_fonctionnement.png)
+
+::: notes
+ + deux fournisseurs : APNS et Google
+ + expliquer le fonctionnement
+  + verifier que l'utilisateur a un token
+  + vérifier qu'il est d'accord pour recevoir des notifications
 :::
 
 # SITA - Smart ULD

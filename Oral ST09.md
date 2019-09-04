@@ -13,6 +13,7 @@ toc: true
 ![source : siclo-mobile](images/siclo.png){width=500px}
 
 ##  Localisation
+
 ![source : google maps](images/map.png)
 
 # Jobigo
@@ -61,8 +62,8 @@ toc: true
 ## Pourquoi ?
 
 ::: incremental
- - prototype
- - besoin de fiabilité
+ - Prototype
+ - Besoin de fiabilité
 :::
 
 ::: notes
@@ -110,7 +111,7 @@ toc: true
 + un code plus clair
 :::
 
-# mynabes
+# Mynabes
 
 ## Projet
 
@@ -124,12 +125,12 @@ toc: true
 
 :::
 
-## conception
-   1. front-end
-   1. back-end
-      1. api
+## Principe
 
-## implémentation
-   1. MVC
-
+::: incremental
+ + Fonctionnement par voisinnage 📍
+ + Système de fil d'actualité 📰
+ + Fonctionnalité de recherche 🔎
+:::
+    
 # Questions ?

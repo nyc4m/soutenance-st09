@@ -45,11 +45,11 @@ theme: moon
 
 ::: notes
 
-   1. aider des chercheurs d'emploie à trouver un emploie
+   + aider des chercheurs d'emploi à trouver un emploi
 
-   1. faciliter la publication d'offres par les employeurs
+   + faciliter la publication d'offres par les employeurs
 
-   1. établir un système de chat
+   + établir un système de chat
 
 :::
 

@@ -7,6 +7,14 @@ theme: moon
 
 # Siclo Mobile
 
+##  Localisation
+
+![source : google maps](images/map.png)
+
+::: notes
+ + financièrement c'est intéressant
+ + culturellement aussi
+:::
 
 ## L'entreprise
 
@@ -16,15 +24,6 @@ theme: moon
 + Studio de developpement
 + une dizaine de personne
 + fondée par deux ingénieurs français
-:::
-
-##  Localisation
-
-![source : google maps](images/map.png)
-
-::: notes
- + financièrement c'est intéressant
- + culturellement aussi
 :::
 
 ## Siclo ? Xích lô !

@@ -60,13 +60,20 @@ toc: true
 
 ## Pourquoi ?
 
+::: incremental
+ - prototype
+ - besoin de fiabilité
+:::
+
 ::: notes
-   1. premier prototype pas très performant en javascript
-   1. flow de données important
+   1. premier prototype pas très performant en javascript (stagiaire)
+   1. flow de données important, argent en jeu
 :::
 
 ## Principe
+
 ![](images/sita_overview.png){height=550}
+
 
 ::: notes
 

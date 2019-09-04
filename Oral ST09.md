@@ -96,8 +96,7 @@ theme: moon
 
 ## Principe
 
-![](images/sita_overview.png){height=550}
-
+![version simplifiée de l'architecture](images/micro_services.svg){}
 
 ::: notes
 

@@ -7,6 +7,7 @@ theme: moon
 
 # Siclo Mobile
 
+
 ## L'entreprise
 
 ![source : siclo-mobile](images/siclo.png){width=400px}
@@ -84,8 +85,8 @@ theme: moon
 ## Pourquoi ?
 
 ::: incremental
- - Prototype
- - Besoin de fiabilité
+ - Prototype non fiable ❌ 
+ - Maintenance compliquée ❌ 
 :::
 
 ::: notes

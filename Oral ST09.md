@@ -3,18 +3,28 @@ title: Soutenance ST09 Siclo Mobile
 author: Baptiste Prunot
 date: 5 septembre 2019
 theme: moon
-toc: true
 ---
 
 # Siclo Mobile
 
 ## L'entreprise
 
-![source : siclo-mobile](images/siclo.png){width=500px}
+![source : siclo-mobile](images/siclo.png){width=400px}
+
+::: notes
++ Studio de developpement
++ une dizaine de personne
++ fondée par deux ingénieurs français
+:::
 
 ##  Localisation
 
 ![source : google maps](images/map.png)
+
+::: notes
+ + financièrement c'est intéressant
+ + culturellement aussi
+:::
 
 # Jobigo
 
@@ -55,9 +65,21 @@ toc: true
 
 ![source : sita](images/sita.png)
 
+::: notes
+ + Société Internationale de Télécommunications Aeronautique
+ + Formée par toutes les grosses compagnies aeriennes européenes
+ + standardisation des télécomunication dans l'aviation
+:::
+
 ## Projet
 
 ![source : wikipedia](images/uld.jpg){width=600px}
+
+::: notes
+ + Capteur dans les uld
+ + tracking (temperature, geo, pression, choc)
+ + second prix au Cargo Innovation Awards 2019
+:::
 
 ## Pourquoi ?
 

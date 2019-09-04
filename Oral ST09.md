@@ -13,7 +13,7 @@ toc: true
 ![source : siclo-mobile](images/siclo.png){width=500px}
 
 ##  Localisation
-![source : google maps](/home/baptiste/Typora/Soutenance ST09/images/map.png)
+![source : google maps](images/map.png)
 
 # Jobigo
 

@@ -81,7 +81,7 @@ theme: moon
 ![source : wikipedia](images/uld.jpg){width=600px}
 
 ::: notes
- + Capteur dans les uld
+ + Capteur dans les uld (Unit Load Device)
  + tracking (temperature, geo, pression, choc)
  + second prix au Cargo Innovation Awards 2019
 :::

@@ -189,7 +189,8 @@ theme: moon
 
 ::: incremental
  + Fonctionnement par voisinnage 📍
- + Système de fil d'actualité 📰
+ + Fil d'actualité 📰
+ + Système de favoris ❤️
  + Discussion instantanée 📱
  + Fonctionnalité de recherche 🔎
 :::

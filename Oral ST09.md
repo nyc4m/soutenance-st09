@@ -171,12 +171,14 @@ theme: moon
 
 :::
 
-## Principe
+## Fonctionnement
 
 ::: incremental
  + Fonctionnement par voisinnage 📍
  + Système de fil d'actualité 📰
+ + Discussion instantanée 📱
  + Fonctionnalité de recherche 🔎
 :::
+
     
 # Questions ?

@@ -196,6 +196,11 @@ theme: moon
  + Fonctionnalité de recherche 🔎
 :::
 
+::: notes
+ + J'ai codé ces fonctionnalités
+ + travail côté serveur
+:::
+
 ## Technologie
 
 ![source : site officiel](images/laravel.jpg)

@@ -49,6 +49,8 @@ theme: moon
 
    + faciliter la publication d'offres par les employeurs
 
+   + mix entre linkedin et jobteaser
+
    + établir un système de chat
 
 :::
@@ -61,6 +63,7 @@ theme: moon
 
     + fin de projet
     + notifications
+    + travail côté serveur
 
 :::
 
@@ -70,7 +73,6 @@ theme: moon
 + Offre d'emploi
 + Candidature
 + Acceptation
-+ Nouveau message
 :::
 
 ## Fonctionnement
@@ -118,6 +120,7 @@ theme: moon
  + Capteur dans les uld (Unit Load Device)
  + tracking (temperature, geo, pression, choc)
  + second prix au Cargo Innovation Awards 2019
+ + tâche : réécrire le projet
 :::
 
 ## Pourquoi ?
@@ -137,11 +140,9 @@ theme: moon
 ![version simplifiée de l'architecture](images/micro_services.svg){}
 
 ::: notes
-
    + microservices
    + réécriture en typescript
    + système de queue
-
 :::
 
 ## Technologies
